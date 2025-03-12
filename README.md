@@ -2,3 +2,5 @@
 A repository to accompany the march 2025 workshops
 
 Workshops are cool!
+
+Animals are cool too!
