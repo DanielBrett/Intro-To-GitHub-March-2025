@@ -1,22 +1,8 @@
 # Intro-To-GitHub-March-2025
-## Intro-To-GitHub-March-2025
-### Intro-To-GitHub-March-2025
+
 A **repository** to *accompany* the march 2025 workshops
 
-[Link to Google](htpp://www.google.ca)
-![]()
+[Link to Google](http://www.google.ca)
 
-
-What is your favourite animal?
-
-1. Koala
-2.
-3.
-4.
-5.
-6.
-7.
-
-
-
+![Daniel Brett with a lizard and book](Daniel_Headshot_Library_Reduced.jpg)
 
