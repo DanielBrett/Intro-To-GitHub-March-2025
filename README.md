@@ -1,5 +1,11 @@
 # Intro-To-GitHub-March-2025
-A repository to accompany the march 2025 workshops
+## Intro-To-GitHub-March-2025
+### Intro-To-GitHub-March-2025
+A **repository** to *accompany* the march 2025 workshops
+
+[Link to Google](htpp://www.google.ca)
+![]()
+
 
 What is your favourite animal?
 
